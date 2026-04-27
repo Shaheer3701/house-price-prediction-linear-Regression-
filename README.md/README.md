@@ -69,8 +69,9 @@ Key cleaning steps performed:
 
 ### Price by City
 
-![Boxplot Cities Before](visuals/Boxplot%20By%20cities%20before%20log%20transformation.png)
-![Boxplot Cities After](visuals/Boxplot%20By%20cities%20after%20log%20transformation.png)
+![Cities Before](visuals/Boxplot%20By%20cities%20before%20log%20transformation.png)
+![Cities After](visuals/Boxplot%20By%20cities%20after%20log%20transformation.png)
+
 
 > Islamabad has the highest price variation. Faisalabad is the most affordable major city.
 
@@ -78,8 +79,9 @@ Key cleaning steps performed:
 
 ### Price by Property Type
 
-![Boxplot Property Before](visuals/Boxplot%20By%20Property%20Type%20before%20log%20transformation.png)
-![Boxplot Property After](visuals/Boxplot%20By%20Property%20Type%20after%20log%20transformation.png)
+![Property Before](visuals/Boxplot%20By%20Property%20Type%20before%20log%20transformation.png)
+![Property After](visuals/Boxplot%20By%20Property%20Type%20after%20log%20transformation.png)
+
 
 > Farm Houses have the highest price variation. Rooms and Lower Portions are most affordable.
 
@@ -87,7 +89,8 @@ Key cleaning steps performed:
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](visuals/Correlation%20Heatmap%20before%20Log%20Transformation.png)
+![Correlation](visuals/Correlation%20Heatmap%20before%20Log%20Transformation.png)
+
 
 > Bedrooms is the strongest predictor of price (0.45 correlation). Baths and bedrooms are highly correlated with each other (0.68) — multicollinearity noted.
 
@@ -123,7 +126,7 @@ Key cleaning steps performed:
 
 ### Residual Plot
 
-![Residual Plot](visuals/Residual%20Plot.png)
+![Residual](visuals/Residual%20Plot.png)
 
 > Model performs well for mid-range properties. Struggles with luxury properties above 50M — visible heteroscedasticity at high predicted values.
 

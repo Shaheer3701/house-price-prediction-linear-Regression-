@@ -1,6 +1,6 @@
 # 🏠 Pakistan House Price Prediction
 
-A complete end-to-end Machine Learning project to predict house prices across Pakistan's 5 major cities using real Zameen.com data and Linear Regression.
+A complete end-to-end Data Science project to predict house prices across Pakistan's 5 major cities using real Zameen.com data and Linear Regression.
 
 ---
 

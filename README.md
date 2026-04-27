@@ -137,7 +137,7 @@ Key cleaning steps performed:
 
 ## 🔑 Key Findings
 
-- Bedrooms is the strongest numerical predictor of price
+- Area_marla is the strongest numerical predictor of price
 - Location is the most critical feature overall — same area size can have 10x price difference by location
 - Islamabad has highest price variation across all cities
 - Faisalabad is the most affordable major city

@@ -167,6 +167,3 @@ Key cleaning steps performed:
 **Shaheer Khan**  
 Aspiring Data Scientist | Pakistan  
 GitHub: [@Shaheer3701](https://github.com/Shaheer3701)
-git add README.md
-git commit -m "add readme to root"
-git push

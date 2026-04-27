@@ -90,9 +90,10 @@ Key cleaning steps performed:
 ### Correlation Heatmap
 
 ![Correlation](visuals/Correlation%20Heatmap%20before%20Log%20Transformation.png)
+![Correlation After Feature Engineering](visuals/Correlation%20Heatmap%20after%20feature%20engineering.png)
 
 
-> Bedrooms is the strongest predictor of price (0.45 correlation). Baths and bedrooms are highly correlated with each other (0.68) — multicollinearity noted.
+> Area_marla is the strongest predictor of price (0.8 correlation). Baths and bedrooms are highly correlated with each other (0.68) — multicollinearity noted.
 
 ---
 

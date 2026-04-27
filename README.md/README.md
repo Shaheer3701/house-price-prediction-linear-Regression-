@@ -59,8 +59,9 @@ Key cleaning steps performed:
 
 ### Price Distribution — Before & After Log Transformation
 
-![Price Distribution Before](visuals/Price%20distribtion%20before%20log%20transformation.png)
-![Price Distribution After](visuals/price%20distribtion%20after%20log%20transformation.png)
+![Price Before](visuals/Price%20distribtion%20before%20log%20transformation.png)
+![Price After](visuals/price%20distribtion%20after%20log%20transformation.png)
+
 
 > Price data was heavily right skewed. Log transformation converted it to a normal distribution — essential for Linear Regression.
 
